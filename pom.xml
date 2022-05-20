@@ -6,10 +6,10 @@
 
     <groupId>com.ja-netfilter</groupId>
     <artifactId>ja-netfilter</artifactId>
-    <version>2022.1.0</version>
+    <version>2022.2.0</version>
 
     <name>ja-netfilter</name>
-    <description>A javaagent framework</description>
+    <description>A Java Instrumentation Framework</description>
     <url>https://github.com/ja-netfilter/ja-netfilter</url>
 
     <licenses>
